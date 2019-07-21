@@ -17,7 +17,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays a list of all HD Admin commands.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -37,7 +37,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays a list of all HD Admin morphs.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -57,7 +57,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+        Description = "Shows all exclusive donor features and pricing.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -77,7 +77,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays all in-game ranks.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -97,7 +97,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays all game-ranks.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -117,7 +117,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays all player-bans.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -137,7 +137,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays all in-game command-logs.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -159,7 +159,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays all in-game chat-logs.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -181,7 +181,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Shows general information about the HD Admin Module.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -201,7 +201,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays the HD Admin creators and contributors.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -221,7 +221,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays the HD Admin Module updates.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -241,7 +241,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays in-game settings of the HD Admin bar.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -261,7 +261,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Shows the server prefix.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -282,7 +282,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Clears all messages off your screen";
+	Description = "Clears all messages off your screen.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -323,7 +323,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Shows the current in-game sound playing.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
