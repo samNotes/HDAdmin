@@ -57,7 +57,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-        Description = "Shows all exclusive donor features and pricing.";
+        Description = "Displays the 'Donor' page.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -401,7 +401,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Clears all effects and loops from the player";
+	Description = "Clears all effects and loops from the specified player";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -436,7 +436,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Respawns the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -523,7 +523,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Clears all accessories from the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -566,7 +566,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Turns the specified player invisible.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -589,7 +589,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Turns the specified player visible.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1047,7 +1047,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Free ice cream? Anyone?";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1091,7 +1091,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Blurs the specified player's vision.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -1109,7 +1109,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Hides in-game guis.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1127,7 +1127,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays in-game guis.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1212,7 +1212,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Anchors the specified player on the spot.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1241,7 +1241,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Puts the specified player in a jail cell.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1281,7 +1281,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Surrounds the specified player with a forcefield.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1306,7 +1306,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Sets the specified player on fire.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1381,7 +1381,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Gives the specified player a custom name.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Text"};
@@ -1412,7 +1412,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Hides the name of the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1434,7 +1434,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays name of the specified of player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1502,7 +1502,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Gives the specified player nightvision.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1520,7 +1520,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Transforms the specified player into a dwarf.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1925,7 +1925,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Spectates the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1967,7 +1967,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Transforms the specified player into a dinosaur.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -3760,7 +3760,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {""};
-	Description = "Saves a copy of the map which can be restored using the ;loadMap command";
+	Description = "Saves a copy of the map which can be restored using the ;loadMap command.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {};
@@ -3821,7 +3821,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {""};
-	Description = "Creates a new team";
+	Description = "Creates a new team.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Color", "TeamName"};
@@ -3844,7 +3844,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {""};
-	Description = "Removes an existing team";
+	Description = "Removes an existing team.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Team"};
@@ -3867,7 +3867,7 @@ local module = {
 	RankLock = true;
 	Loopable = false;
 	Tags = {"Ranks"};
-	Description = "Ranks a player (permanently across all servers)";
+	Description = "Ranks the specified player permanently across all servers.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Rank"};
@@ -3887,7 +3887,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Crashes the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -3910,7 +3910,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Moves the specified player to specified game.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -3938,7 +3938,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Shut downs the running server.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {};
@@ -3968,7 +3968,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Locks the server for players lower than the given rank";
+	Description = "Locks the server for players lower than the given rank.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Rank"};
@@ -4001,7 +4001,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Displays the ban menu.";
+	Description = "Displays the ban-menu.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"PlayerArg", "Reason"};
@@ -4027,7 +4027,7 @@ local module = {
 	RankLock = true;
 	Loopable = false;
 	Tags = {};
-	Description = "Directly bans a player, instead of displaying the ban menu.";
+	Description = "Directly bans the specified player, instead of displaying the ban-menu.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Reason", "Details"};
@@ -4121,7 +4121,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Displays the ban menu.";
+	Description = "Displays the ban-menu.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"PlayerArg", "Reason"};
@@ -4147,7 +4147,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Displays the ban menu.";
+	Description = "Displays the ban-menu.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"PlayerArg", "?m?h?d", "Reason"};
@@ -4193,7 +4193,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Displays the poll menu.";
+	Description = "Displays the poll-menu.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"PlayerArg", "Answers", "Question"};
@@ -4216,7 +4216,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Displays the alert menu.";
+	Description = "Displays the alert-menu.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Text"};
