@@ -3014,7 +3014,7 @@ local module = {
 	RankLock = true;
 	Loopable = false;
 	Tags = {"Ranks"};
-	Description = "Ranks a player (until player leaves)";
+	Description = "Ranks a player (until player leaves).";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Rank"};
@@ -3034,7 +3034,7 @@ local module = {
 	RankLock = true;
 	Loopable = false;
 	Tags = {"Ranks"};
-	Description = "Ranks a player (for the given server)";
+	Description = "Ranks a player (for the given server).";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Rank"};
@@ -3054,7 +3054,7 @@ local module = {
 	RankLock = true;
 	Loopable = false;
 	Tags = {"Ranks"};
-	Description = "Sets the players rank to 0 (NonAdmin)";
+	Description = "Sets the players rank to 0 (NonAdmin).";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -3146,7 +3146,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Sets the in-game volume to the specified number.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Number"};
@@ -3541,7 +3541,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Throws a party with disco lights.";
 	Contributors = {"ForeverHD"};
 	EndDisco = main.client.Signals.EndDisco;
 	--
@@ -3656,7 +3656,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Displays the poll menu.";
+	Description = "Displays the poll-menu.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"PlayerArg", "Answers", "Question"};
@@ -4315,7 +4315,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "I am...inevitable.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
