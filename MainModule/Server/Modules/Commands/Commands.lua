@@ -365,7 +365,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays the command-bar.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -383,7 +383,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Displays command-bar 2.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -457,7 +457,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes in-game shirt for the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -479,7 +479,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes in-game pants for the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -501,7 +501,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Adds in-game accessories to the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -544,7 +544,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes in-game face for the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -612,7 +612,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Paints the specified player into a chosen color.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Color"};
@@ -638,7 +638,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Turns the specified player into a chosen material.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Material"};
@@ -663,7 +663,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the reflectence of the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -688,7 +688,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the transparency of the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -713,7 +713,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Turns the specified player into glass.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -737,7 +737,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Appears the specified player as neon.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -761,7 +761,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Appears the specified player as shining.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -785,7 +785,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Appears the specified player as a ghost.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -809,7 +809,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Appears the specified player as gold.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -833,7 +833,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Makes the specified player jump.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -857,7 +857,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Makes the specified player sit.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -881,7 +881,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Gives the specified player a big head.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -906,7 +906,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Gives the specified player a small head.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -931,7 +931,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Gives the specified player a potato shaped head.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -969,7 +969,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Spins the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -1024,7 +1024,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Free use of a toilet, anyone?";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1047,7 +1047,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Free ice cream? Anyone?";
+	Description = "Free tasty ice cream, anyone?";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1070,7 +1070,7 @@ local module = {
 	RankLock = false;
 	Loopable = true;
 	Tags = {};
-	Description = "";
+	Description = "To infinity... and beyond!";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1145,7 +1145,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Ices the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1188,7 +1188,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Thaws the specified player from ice.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1331,7 +1331,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Gives the specified player smoke effects.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1356,7 +1356,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Gives the specifed player sparkle effects.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1460,7 +1460,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the specified player into R15.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1481,7 +1481,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the specified player into R6.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1520,7 +1520,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Transforms the specified player into a dwarf.";
+	Description = "Turns the specified player into a dwarf.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1547,7 +1547,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Turns the specified player into a giant.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1574,7 +1574,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Sizes the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1601,7 +1601,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the body type scale of the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1628,7 +1628,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the depth of the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1655,7 +1655,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "changes the head size of the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1682,7 +1682,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the height of the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1709,7 +1709,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the hip height of the specified player.";
 	Contributors = {"ForeverHD"};
 	--RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1742,7 +1742,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Squashes the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1768,7 +1768,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the proportion of the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1795,7 +1795,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Changes the width of the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1822,7 +1822,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Turns the specified player fat.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1848,7 +1848,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Turns the specified player thin.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1874,7 +1874,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Shifts the specified player into chosen Roblox profile.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "UserId"};
@@ -1901,7 +1901,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Morphs the specifed player into chosen HD Admin morph.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Morph"};
@@ -1944,7 +1944,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "";
+	Description = "Shifts the specified player into chosen Roblox package.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
@@ -1967,7 +1967,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Transforms the specified player into a dinosaur.";
+	Description = "Turns the specified player into a dinosaur.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
