@@ -401,7 +401,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Clears all effects and loops from the specified player";
+	Description = "Clears all effects and loops from the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -612,7 +612,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Paints the specified player into a chosen color.";
+	Description = "Colors the specified player.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Color"};
@@ -638,7 +638,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Turns the specified player into a chosen material.";
+	Description = "Turns the specified player into a material.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Material"};
@@ -1024,7 +1024,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Free use of a toilet, anyone?";
+	Description = "Do you need to use a toilet...?";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1047,7 +1047,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Free tasty ice cream, anyone?";
+	Description = "Free ice cream, anyone?";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player"};
@@ -1655,7 +1655,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "changes the head size of the specified player.";
+	Description = "Changes the head size of the specified player.";
 	Contributors = {"ForeverHD"};
 	RequiresRig = Enum.HumanoidRigType.R15;
 	--
@@ -1874,7 +1874,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Shifts the specified player into chosen Roblox profile.";
+	Description = "Shifts the specified player into a Roblox profile.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "UserId"};
@@ -1901,7 +1901,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Morphs the specifed player into chosen HD Admin morph.";
+	Description = "Morphs the specifed player into a HD Admin morph.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Morph"};
@@ -1944,7 +1944,7 @@ local module = {
 	RankLock = false;
 	Loopable = false;
 	Tags = {};
-	Description = "Shifts the specified player into chosen Roblox package.";
+	Description = "Shifts the specified player into a Roblox package.";
 	Contributors = {"ForeverHD"};
 	--
 	Args = {"Player", "Number"};
